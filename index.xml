@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bar Eini-Porat</title>
+    <link>https://bareini.github.io/</link>
+      <atom:link href="https://bareini.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bar Eini-Porat</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2020 14:29:18 +0300</lastBuildDate>
+    <image>
+      <url>https://bareini.github.io/media/DSC_0007_s.png</url>
+      <title>Bar Eini-Porat</title>
+      <link>https://bareini.github.io/</link>
+    </image>
+    
+    <item>
+      <title> Debiasing Doodle Polls</title>
+      <link>https://bareini.github.io/project/doodle/</link>
+      <pubDate>Mon, 31 Aug 2020 14:29:18 +0300</pubDate>
+      <guid>https://bareini.github.io/project/doodle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretability of AI Models in Healthcare Senarios </title>
+      <link>https://bareini.github.io/project/interpt/</link>
+      <pubDate>Mon, 31 Aug 2020 14:08:02 +0300</pubDate>
+      <guid>https://bareini.github.io/project/interpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mediators for Cannabis Use Disorder</title>
+      <link>https://bareini.github.io/project/cud/</link>
+      <pubDate>Mon, 31 Aug 2020 13:44:04 +0300</pubDate>
+      <guid>https://bareini.github.io/project/cud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using deep networks for scientific discovery in physiological signals</title>
+      <link>https://bareini.github.io/publication/discovery/</link>
+      <pubDate>Mon, 31 Aug 2020 12:04:30 +0300</pubDate>
+      <guid>https://bareini.github.io/publication/discovery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

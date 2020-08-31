@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Bar Eini-Porat</title>
+    <link>https://bareini.github.io/publication-type/1/</link>
+      <atom:link href="https://bareini.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2020 12:04:30 +0300</lastBuildDate>
+    <image>
+      <url>https://bareini.github.io/media/DSC_0007_s.png</url>
+      <title>1</title>
+      <link>https://bareini.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Using deep networks for scientific discovery in physiological signals</title>
+      <link>https://bareini.github.io/publication/discovery/</link>
+      <pubDate>Mon, 31 Aug 2020 12:04:30 +0300</pubDate>
+      <guid>https://bareini.github.io/publication/discovery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
